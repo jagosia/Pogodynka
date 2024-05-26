@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/42d5e0b6-7f70-4666-bca0-a81c641525ea/resourceGroups/pogodynka_group/providers/Microsoft.Web/sites/pogodynka",
+    "appService.deploySubpath": "."
+}
